@@ -1,0 +1,33 @@
+{
+  "name": "random-point",
+  "version": "1.0.1",
+  "description": "a random point generator",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "author": {
+    "email": "matt.that@gmail.com",
+    "name": "Matt That",
+    "url": "http://matt-that.com"
+  },
+  "contributors": [
+    {
+      "email": "matt.that@gmail.com",
+      "name": "Matt That",
+      "url": "http://matt-that.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattthat/random-point.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "license": {
+    "type": "Apache-2.0",
+    "url": "https://spdx.org/licenses/Apache-2.0"
+  },
+  "devDependencies": {
+  }
+}
